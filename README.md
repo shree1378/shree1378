@@ -29,8 +29,7 @@ I'm learning in public and building small projects to sharpen my skills.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📂 Featured projects
-- **[questions](https://github.com/shree1378/questions)**: [one-line description of what it is]
-- **[Project name](link)**: [e.g., Sales data analysis using Pandas and Matplotlib]
+- **[questions](https://github.com/shree1378/questions)
 
 ## 📫 Connect with me
 - LinkedIn: [https://www.linkedin.com/in/shree-g-83819b341/?isSelfProfile=true]
