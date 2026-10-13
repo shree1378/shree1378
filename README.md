@@ -1,10 +1,10 @@
- # Hi, I'm [Shree G] 👋
+ # Hi, I'm Shree G👋
 
-I'm a [student] from [coimbatore], interested in Python, data analysis, and web development.
+I'm a student from coimbatore, interested in Python, data analysis, and web development.
 I'm learning in public and building small projects to sharpen my skills.
 
 ## 🔭 What I'm working on
-- [Current project or learning goal]
+- learning goal
 - Practicing Python and analyzing real-world datasets
 
 ## 🛠️ Tech I use
